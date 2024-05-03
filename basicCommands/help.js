@@ -61,12 +61,12 @@ module.exports = {
 
     const button1 = new ButtonBuilder()
       .setLabel('YouTube')
-      .setURL('https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A')
+      .setURL('https://www.youtube.com/channel/UCoKbDBA1a1q9yVu88tFrYXw')
       .setStyle(ButtonStyle.Link);
 
     const button2 = new ButtonBuilder()
       .setLabel('Discord')
-      .setURL('https://discord.gg/FUEHs7RCqz')
+      .setURL('https://discord.gg/RKzrKGXY')
       .setStyle(ButtonStyle.Link);
 
     const button3 = new ButtonBuilder()
